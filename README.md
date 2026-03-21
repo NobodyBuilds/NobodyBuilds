@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👾 NobodyBuilds
-### Cuda hysics Simulation Engineer
+### Cuda physics Simulation Engineer
 
 
 
