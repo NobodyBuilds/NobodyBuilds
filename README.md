@@ -7,7 +7,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=C%2B%2B+%2B+CUDA+Simulation+Engineer;Real-Time+GPU+Physics+Simulation;SPH+%7C+N-Body+%7C+Physics+From+Scratch;Governing+Equations+First.+Always.;Why+leave+performance+when+you+can+always+optimize%3F;It+doesn%27t+work%3F+Skill+issue.;New+project+dropped!+...wait+how+do+I+code+again%3F)
 
-](https://git.io/typing-svg)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=NobodyBuilds&icon=2&color=3)](https://visitcount.itsvg.in)
