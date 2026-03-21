@@ -61,22 +61,7 @@ Obsessed with how nature actually works — and making silicon replicate it corr
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=NobodyBuilds&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=NobodyBuilds&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 
 
