@@ -49,10 +49,7 @@ Obsessed with how nature actually works — and making silicon replicate it corr
 > Real-time GPU fluid sim — 1M+ particles, CUDA, built from scratch
 
 demo with 1 million particles simulated at 130ms on budget rtx2050A laptop varient,real time is achiveable at 100k.
-
-https://drive.google.com/file/d/1nlj5EXaR1gLOnXsmMgtF3Q2jqG1BPsrR/view?usp=drive_link
-
-
+![23sec (2) (1)](https://github.com/user-attachments/assets/a9ac5b65-14b1-4cc9-96c7-5362f1e592cf)
 
 
 
