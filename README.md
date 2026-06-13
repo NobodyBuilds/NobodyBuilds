@@ -46,7 +46,7 @@ Obsessed with how nature actually works — and making silicon replicate it corr
 ## 🔍 Check It Out
 
 ### [⚡ 3D SPH Fluid Simulation](https://github.com/NobodyBuilds/fluid_sim)
-> Real-time GPU fluid sim — 1M+ particles, CUDA, built from scratch
+> Real-time GPU fluid sim — 100k+ particles, CUDA, built from scratch
 
 ### [2d smoke simulator](https://github.com/NobodyBuilds/smoke_simulation)
 > real time gpu based smoke simulation,built from scratch
